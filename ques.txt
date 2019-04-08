@@ -1,0 +1,123 @@
+Asp.Net Architecture
+MVC Architecture
+Asp.Net Life Cycle
+MVC Life Cycle
+CLR & its Components
+Controller
+Model Binding
+Model
+View
+Razor
+Types of Views in MVC
+Models in View
+Routing
+Bundles
+Exception Handling
+Collection and Generic
+Datatypes
+dynamic and var and other dataypes
+Interface
+Abstract Class
+Inheritance
+Polymorphism
+Oops Concepts in c#
+Selectors in JS
+Types of Results in MVC
+Linq
+ADO.Net query in c#
+Linq Joins
+EnityFramework
+MVC Version
+C# Version
+FrameWork Version
+EnityModel
+ADO.Net
+Tempdata
+ViewData
+ViewBag
+Session
+Types of States & Storages
+Ajax
+Sql Statements
+Alter & Delete & Drop
+View 
+Indexing
+Functions
+Scalar Functions
+Stored Procedure
+Primary & Unique & Foreign Keys
+SQL Joins
+Loop in select query
+Operators in c#
+Sealed  & Sealed Class
+Delegate
+Static class
+Web Config
+latest in MVC and ASp.Net and C#
+Virtual Keyword in C#
+WebAPI
+RestAPI
+Types of events in JQuery & Javascript
+Authorisation and Authentication
+get & Set in C#
+Dataformat & Attribute for variable in class in c#
+types of Filter in .Net
+NamesSpace
+Types of Storage States
+Type of State in .Net
+HTML Helpers
+Helpers
+String & Stringbuilder
+Layout or MasterPage
+Annotations in c#
+Dictionary in c#
+.Net Core Basics
+ResultJSON limit
+Data types in c#
+Data types in Javascript
+Data types in SQL
+Data types Limits in c#
+Data types Limits in javascript
+Data types Limits in sql
+Enumerator
+IEnumerator
+
+
+
+
+ReactJS Architecture
+ReactJS Life Cycle
+How ReactJS works
+Render
+Did Mount
+Will Mount
+Will Update
+Will UnMount
+JSX
+ReactJS Version
+State
+Props
+Advanced JSX Statements
+NPM
+AppRoute
+Redux Form
+Hot Loading
+Component
+Oops Concepts in ReactJS
+Refs
+React Router
+
+
+
+
+
+
+
+
+https://www.c-sharpcorner.com/UploadFile/8ef97c/most-asked-Asp-Net-mvc-interview-questions-and-answers/
+
+
+https://www.edureka.co/blog/interview-questions/react-interview-questions/?test=www.amazon.com
+
+
+https://github.com/YoganandMathu/works.git
