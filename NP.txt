@@ -4,8 +4,8 @@ Leave Taken: 4 days
 Leave Details: 5Feb to 8Feb
 
 
-Days Completed: 55
-Remaining Days: 5
+Days Completed: 58
+Remaining Days: 2
 
 Day 1:  11/Jan 2019
 Day 2:  17/Jan 2019
@@ -62,8 +62,8 @@ Day 52: 01/Apr 2019
 Day 53: 02/Apr 2019
 Day 54: 03/Apr 2019
 Day 55: 04/Apr 2019
-Day 56: 
-Day 57: 
-Day 58: 
+Day 56: 05/Apr 2019
+Day 57: 06/Apr 2019
+Day 58: 08/Apr 2019
 Day 59: 
 Day 60: 
